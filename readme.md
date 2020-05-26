@@ -1,6 +1,6 @@
 # random-messages
 
-Whenever I start a new project, I don't know what to write for the first commit. After doing a “git init” there is technically nothing there...
+Random messages is a project for the "Dependencies an packs with NPM" course.
 
 ## Install
 
@@ -15,7 +15,7 @@ random-msg
 ```
 
 # Contributing
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-msg](https://github.com/platzi/npm-random-msg)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-msg](https://github.com/andresV74/random-messages)
 
 # License
 random-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
